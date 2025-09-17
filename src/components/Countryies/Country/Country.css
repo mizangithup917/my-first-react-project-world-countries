@@ -20,6 +20,10 @@ button:hover {
  
 }
 
+.btn-tow {
+  margin-left: 20px;
+}
+
 .country-visited {
   background-color: #8beeff;
 }

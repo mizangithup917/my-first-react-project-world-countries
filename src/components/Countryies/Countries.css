@@ -1,9 +1,28 @@
+
+#body {
+  background-color: antiquewhite;
+  width: 100%;
+}
+
+
 .countries {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
+  background-color: beige;
 }
 
-h1 {
+.hading-div {
   color: brown;
+  padding-left: 20px;
+}
+
+.visited-flags-container {
+  padding-left: 20px;
+}
+
+.visited-flags-container img{
+  width: 120px;
+  margin-right: 10px;
+  
 }
